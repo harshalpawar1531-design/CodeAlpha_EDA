@@ -48,4 +48,4 @@ The dataset contains 1,000 transaction records from three supermarket branches w
 
 ## 👨‍💻 Author
 
-**Harshal Pardeshi**
+**Harshal Pawar **
